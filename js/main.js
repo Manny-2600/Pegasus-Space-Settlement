@@ -18,7 +18,6 @@ jQuery(document).ready(function($) {
     top_header.css({'background-position':'center calc(50% + '+(st*.5)+'px)'});
     });
 
-
     $('body').scrollspy({ 
         target: '.fixed-side-navbar',
         offset: 200
