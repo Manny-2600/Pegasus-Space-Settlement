@@ -46,7 +46,7 @@ a:hover { color: rgb(7, 7, 7); }
 .fixed-side-navbar:hover .nav > li > a > span {
   color: rgba(0, 0, 0, 0.5);
   display: block;
-  background-color: #fff;
+  background-color: rgb(255, 240, 240);
   text-align: center;
   text-transform: uppercase;
   font-size: 12px;
@@ -340,7 +340,7 @@ section {
 }
 
 .tabs a:hover {
-  color: #0e107e;
+  color: #777474;
 }
 
 .tabs .active {
